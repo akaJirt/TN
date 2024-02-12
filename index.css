@@ -15,6 +15,7 @@ body {
 
 }
 
+
 .btn {
     display: flex;
     justify-content: center;
@@ -291,6 +292,7 @@ strong {
     transition: all 0.5s;
     position: absolute;
     z-index: -1;
+    
 }
 
 .card:hover .character {
@@ -308,7 +310,7 @@ strong {
 
 .container>span {
     display: inline-block;
-    animation: glow 2s ease-in-out infinite;
+    animation: glow 3.4s ease-in-out infinite;
 }
 
 
