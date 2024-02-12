@@ -302,10 +302,9 @@ strong {
 
 .container {
     margin-top: 150px;
-    animation: glow 3s ease-in-out infinite;
+    animation: glow 3.8s ease-in-out infinite;
     justify-content: center;
     align-items: center;
-
 }
 
 .container>span {
